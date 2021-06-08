@@ -46,14 +46,6 @@
                 "icon": "linkedin",
                 "new_window": true,
                 "url": "linkedin.com/in/okalang-kenneth-0194271b0"
-            },
-            {
-                "style": "icon",
-                "icon": "github",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action",
-                "url": "https://github.com/okalangkenneth"
             }
         ]
     },
