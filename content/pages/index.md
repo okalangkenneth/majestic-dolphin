@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Okalang Kenneth
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: The preview of Okalang Kenneth
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
