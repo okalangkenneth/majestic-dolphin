@@ -41,21 +41,25 @@
                 "url": "https://twitter.com/Kennethokalang"
             },
             {
-                "label": "LinkedIn",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true,
-                "url": "linkedin.com/in/okalang-kenneth-0194271b0"
-            },
-            {
                 "style": "icon",
                 "icon": "github",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action",
-                "url": "https://github.com/okalangkenneth"
+                "url": "https://github.com/okalangkenneth",
+                "label": "GitHub"
+            },
+            {
+                "label": "LinkedIn",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action",
+                "url": "https://www.linkedin.com/in/okalang-kenneth-0194271b0/"
             }
-        ]
+        ],
+        "links": []
     },
     "domain": "okalangkenneth.com",
     "favicon": "/images/cool-saturn.png"
