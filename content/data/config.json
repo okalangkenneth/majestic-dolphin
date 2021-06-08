@@ -49,7 +49,6 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
                 "style": "link",
                 "icon": "github",
                 "new_window": false,
