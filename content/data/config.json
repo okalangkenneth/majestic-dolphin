@@ -57,5 +57,6 @@
             }
         ]
     },
-    "domain": "okalangkenneth.com"
+    "domain": "okalangkenneth.com",
+    "favicon": "/images/favicon-32x32.png"
 }
