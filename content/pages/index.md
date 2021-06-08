@@ -8,7 +8,7 @@ sections:
     content: |
       Let us build something together.
     actions:
-      - label: Let's talk
+      - label: View my portfolio
         url: /contact
         style: button
   - section_id: latest-projects
