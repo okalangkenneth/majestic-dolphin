@@ -44,7 +44,8 @@
                 "label": "LinkedIn",
                 "style": "icon",
                 "icon": "linkedin",
-                "new_window": true
+                "new_window": true,
+                "url": "linkedin.com/in/okalang-kenneth-0194271b0"
             }
         ]
     },
