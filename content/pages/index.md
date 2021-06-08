@@ -13,7 +13,7 @@ sections:
         style: button
 seo:
   title: Okalang Kenneth
-  description: The preview of the Exto theme
+  description: Okalang's portfolio
   extra:
     - name: 'og:type'
       value: website
