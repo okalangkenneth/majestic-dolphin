@@ -48,6 +48,15 @@
                 "type": "action",
                 "url": "https://github.com/okalangkenneth",
                 "label": "GitHub"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "links": []
