@@ -19,7 +19,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Okalang's portfolio
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
