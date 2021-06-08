@@ -1,8 +1,8 @@
 {
     "title": "Stackbit Exto Theme",
     "path_prefix": "/",
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "color_scheme": "dark",
+    "accent_color": "green",
     "header": {
         "title": "OK",
         "has_nav": true,
@@ -57,5 +57,6 @@
             }
         ]
     },
-    "domain": "https://majestic-dolphin-fa53e.netlify.app"
+    "domain": "okalangkenneth.com",
+    "favicon": "/images/cool-saturn.png"
 }

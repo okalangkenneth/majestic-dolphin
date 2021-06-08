@@ -12,17 +12,17 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Okalang Kenneth
+  description: Okalang's portfolio
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Okalang's portfolio
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: The preview of Okalang's portfolio
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -31,9 +31,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Okalang Kenneth
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: The preview of Okalang Kenneth
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
