@@ -53,7 +53,8 @@
                 "icon": "github",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "url": "https://github.com/okalangkenneth"
             }
         ]
     },
