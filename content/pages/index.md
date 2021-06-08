@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Okalang Kenneth
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
