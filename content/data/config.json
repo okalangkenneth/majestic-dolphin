@@ -47,6 +47,17 @@
                 "new_window": true,
                 "url": "linkedin.com/in/okalang-kenneth-0194271b0"
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
         ]
     },
     "domain": "okalangkenneth.com",
