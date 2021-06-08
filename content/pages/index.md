@@ -9,7 +9,7 @@ sections:
       Let us build something together.
     actions:
       - label: View my portfolio
-        url: /contact
+        url: /portfolio
         style: button
 seo:
   title: Okalang Kenneth
