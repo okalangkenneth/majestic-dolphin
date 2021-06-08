@@ -37,7 +37,8 @@
                 "label": "Twitter",
                 "style": "icon",
                 "icon": "twitter",
-                "new_window": true
+                "new_window": true,
+                "url": "https://twitter.com/Kennethokalang"
             },
             {
                 "label": "Instagram",
