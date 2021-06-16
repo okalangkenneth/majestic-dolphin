@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Me
 subtitle: This is a short page about me and my work coming soon.
 image_alt: A man taking a picture
 seo:
