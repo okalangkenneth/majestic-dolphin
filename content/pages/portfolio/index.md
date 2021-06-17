@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Coming soon
+subtitle: "Coming soon. In the meantime please click on\_ the GitHub icon below for ongoing projects."
 layout_style: mosaic
 seo:
   title: Portfolio
