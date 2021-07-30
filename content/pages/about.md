@@ -31,7 +31,6 @@ layout: page
 ---
 I’m a software developer who is passionate about creating great products. I have ongoing projects related to .NET, software architecture, the cloud, and the software development career in general. I would like to help you develop your dream application.
 
+Currently, I am working as a freelance backend developer with Azure technologies,C#.NET Core, Databases, SQL server, and APIs. I also have a working knowledge of CSS, HTML, Javascript, and Angular/Typescripts technologies, and Scrum in Agile process that allows software development teams to repeatedly inspect actual working software.
 
-Currently, I am working as a freelance backend developer with Azure technologies,C#.NET Core, Databases, SQL server, and APIs. I also have a working knowledge of CSS, HTML, Javascript, and Angular/Typescripts technologies.
-
-My main interests when it comes to programming are back-end development, server-side operations, including CRUD functions with database and all server logic and anything that can make life easier for business entities.
+My main interests when it comes to programming are back-end development, server-side operations, including CRUD functions with database and all server logic, and anything that can make life easier for business entities.
