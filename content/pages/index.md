@@ -13,7 +13,6 @@ sections:
         style: button
   - title: Blog
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
     actions: []
