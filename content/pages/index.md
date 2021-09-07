@@ -13,7 +13,7 @@ sections:
         style: button
       - label: Resume For Download
         url: '#'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
