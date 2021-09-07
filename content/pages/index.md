@@ -15,7 +15,7 @@ sections:
         url: '/https://drive.google.com/drive/u/0/my-drive'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
 seo:
   title: Okalang Kenneth
