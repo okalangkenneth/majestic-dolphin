@@ -11,7 +11,7 @@ sections:
       - label: View my portfolio
         url: /portfolio
         style: button
-      - label: Resume For
+      - label: Resume For Downlo
         url: '#'
         style: link
         icon: dribbble
