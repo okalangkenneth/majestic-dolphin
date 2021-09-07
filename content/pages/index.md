@@ -11,12 +11,6 @@ sections:
       - label: View my portfolio
         url: /portfolio
         style: button
-      - label: Resume For Download
-        url: '/https://drive.google.com/drive/u/0/my-drive'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
 seo:
   title: Okalang Kenneth
   description: Okalang's portfolio
