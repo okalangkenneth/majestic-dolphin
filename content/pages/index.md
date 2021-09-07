@@ -12,7 +12,7 @@ sections:
         url: /portfolio
         style: button
       - label: Resume For Download
-        url: 'https://drive.google.com'
+        url: '#https://drive.google.com'
         style: button
         icon: dribbble
         new_window: false
