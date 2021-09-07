@@ -17,12 +17,6 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
 seo:
   title: Okalang Kenneth
   description: Okalang's portfolio
