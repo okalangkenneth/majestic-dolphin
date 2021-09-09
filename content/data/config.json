@@ -57,6 +57,14 @@
                 "no_follow": false,
                 "type": "action",
                 "url": "https://www.linkedin.com/in/okalang-kenneth-0194271b0/"
+            },
+            {
+                "label": "Resume For Download",
+                "url": "https://drive.google.com/file/d/1q2GFZI6CIiVQn2LAtgB3gITo0dTLHmww/view?usp=sharing",
+                "style": "button",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "links": []
