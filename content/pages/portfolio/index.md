@@ -28,5 +28,5 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: portfolio
-subtitle: Hera are some ects that I am building
+subtitle: Hera are some proects that I am building
 ---
