@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Kenneth Okalang. I''m a software developer.'
     content: |
-      Let us build something together.
+      Let us build something together.        ![](/images/Man%20on%20CP.jpg)
     actions:
       - label: View my portfolio
         url: /portfolio
