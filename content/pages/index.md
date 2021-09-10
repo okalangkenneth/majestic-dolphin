@@ -5,12 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Kenneth Okalang. I''m a software developer.'
-    content: |
-      Let us build something together. 
+    content: |+
+      Let us build something together.![](/images/Screenshot%20\(6\).png)
 
-
-
-      ![](/images/Man%20on%20CP-596ff4b3.jpg)
     actions:
       - label: View my portfolio
         url: /portfolio
