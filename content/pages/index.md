@@ -8,9 +8,9 @@ sections:
     content: |+
       Let us build something together.
 
+      ![](/images/Man%20on%20CP2.jpg)
 
 
-      ![](/images/Man%20on%20CP1-4493f3b9.jpg)
 
     actions:
       - label: View my portfolio
