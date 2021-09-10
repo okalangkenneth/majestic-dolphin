@@ -1,12 +1,11 @@
 ---
 title: Coop Marketing
-date: '2019-05-10'
+date: '2021-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
-  title: Project Title 1
-  description: This is the project 1 description
+  title: Cooperative Marketing
+  description: A project to assist the marketing efforts of a Cooperative Union in Uganda
   extra:
     - name: 'og:type'
       value: website
