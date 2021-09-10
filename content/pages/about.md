@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 image: /images/Ken Pic.jpg
-image_alt: his work stattion
+image_alt: Me work stattion
 ---
 I’m a software developer who is passionate about creating great products. I have ongoing projects related to .NET, software architecture, the cloud, and the software development career in general. I would like to help you develop your dream application.
 
