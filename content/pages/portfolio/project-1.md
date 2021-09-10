@@ -5,7 +5,7 @@ thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Cooperative Marketing
-  description: This is the project 1 description
+  description: A project to assist the marketing efforts of a Cooperative Union in Uganda
   extra:
     - name: 'og:type'
       value: website
