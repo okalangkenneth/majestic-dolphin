@@ -1,6 +1,5 @@
 ---
 title: About Me
-image_alt: A man taking a picture
 seo:
   title: About Us
   description: This is the about us page
