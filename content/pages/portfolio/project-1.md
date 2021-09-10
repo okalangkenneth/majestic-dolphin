@@ -4,7 +4,7 @@ date: '2021-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 seo:
-  title: Project Title 1
+  title: Cooperative Marketing
   description: This is the project 1 description
   extra:
     - name: 'og:type'
