@@ -5,7 +5,7 @@
     "accent_color": "green",
     "header": {
         "title": "OK",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
