@@ -5,7 +5,7 @@
     "accent_color": "green",
     "header": {
         "title": "OK",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
@@ -15,7 +15,9 @@
             {
                 "label": "Portfolio",
                 "url": "/portfolio/",
-                "style": "link"
+                "style": "link",
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "About",
