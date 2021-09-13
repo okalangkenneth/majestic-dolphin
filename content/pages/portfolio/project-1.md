@@ -37,11 +37,23 @@ Coop Marketing is a backend application built for a cooperative society in Ugand
 
 
 
+**STACK    **                         [ ** LIVE**](https://www.example.com)
+
+ASP.NET.CORE
+
+ Blazor
+
+ API
+
+ Database
+
+ Visual Studio
+
+ SQL Server
 
 
 
-
-##### **Project Purpose and Goal.**
+#####  **Project Purpose and Goal.**
 
 ##### **WebStack and Explanation.**
 
