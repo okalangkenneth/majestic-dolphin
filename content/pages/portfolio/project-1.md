@@ -34,3 +34,4 @@ subtitle: A project to assist the marketing efforts of a Cooperative Union in Ug
 ***
 
 Coop Marketing is a backend application built for a cooperative society in Uganda.  In the system they can create a new produce , get an overview of the produce sales for the different produce types. The application, in the end, is built using an API and the front end using Blazor and  ASP.NET Core architecture. The  tutorial is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+
