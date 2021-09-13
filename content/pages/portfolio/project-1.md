@@ -31,3 +31,8 @@ seo:
 layout: project
 subtitle: A project to assist the marketing efforts of a Cooperative Union in Uganda
 ---
+# **Coop Marketing**
+
+****
+
+Coop Marketing is an ASP.NET Core built for a cooperative society in Uganda. I built this project based on a tutorial on (Pluralsight)\[<https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents>]
