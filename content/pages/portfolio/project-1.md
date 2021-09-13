@@ -37,8 +37,7 @@ Coop Marketing is a backend application built for a cooperative society in Ugand
 
 
 
-**STACK    **
-                                             
+**STACK   **
 
 Blazor
 
@@ -52,7 +51,7 @@ Blazor
 
 
 
-[LIVE](https://www.example.com)
+****[**LIVE**](https://www.example.com)
 
 
 
