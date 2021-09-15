@@ -1,5 +1,5 @@
 ---
-title: The weather App(Under Development)
+title: The Weather App(Under Development)
 date: '2019-04-30'
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
