@@ -32,3 +32,8 @@ seo:
 layout: project
 subtitle: Creating and accessing JSON data using JavaScript.(AJAX)
 ---
+In this project, I will be building a page where data is loaded using AJAX and a weather application where the current and forecast weather conditions are displayed for any ZIP Code.
+
+
+
+I created JSON files within a JavaScript file and then I loaded the files from my local host using XML HTTP request and finally loaded data from
