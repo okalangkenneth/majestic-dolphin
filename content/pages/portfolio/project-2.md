@@ -1,6 +1,5 @@
 ---
 title: College Score Board(Under Development)
-subtitle: Project Subtitle
 date: '2019-04-30'
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
@@ -31,4 +30,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
+subtitle: >-
+  Use the API from data.gov to build a site where users can select various
+  schools in their area.
 ---
