@@ -30,7 +30,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: "Creating and accessing JSON data using\_ API."
+subtitle: "Accessing JSON data using\_ an API."
 ---
 In this project, I  built a weather application where the current and forecast weather conditions are displayed for any ZIP Code.   I  get JSON data from the Weather Underground site API. I then parsed and used the weather information to populate my website. When one provides a zip code, the JSON data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
 
