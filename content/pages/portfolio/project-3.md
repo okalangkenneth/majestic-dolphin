@@ -32,8 +32,6 @@ seo:
 layout: project
 subtitle: Creating and accessing JSON data using JavaScript and API.
 ---
-In this project, I will be building a page where data is loaded using AJAX and a weather application where the current and forecast weather conditions are displayed for any ZIP Code.
+In this project, I  built a weather application where the current and forecast weather conditions are displayed for any ZIP Code.   I  get JSON data from the Weather Underground site API. I then parsed and used the weather information to populate my website. When one provides a zip code, the JSON data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
 
-In the project I will get JSON data from the Weather Underground site using the API. I then parsed and used the weather information to populate my website. When one provides a zip code, the JSON data returned will tell reveal the location, the current temperature, weather description and details about the weather forecast. 
-
-I created JSON files within a JavaScript file and then I loaded the files from my local host using XML HTTP request and finally loaded data from from an API at the 
+I created JSON files within a JavaScript file and then I loaded the files from my localhost using XML HTTP request and finally loaded data from an API at the
