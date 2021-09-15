@@ -1,5 +1,5 @@
 ---
-title: Coop Marketing
+title: Coop Marketing (Under development)
 date: '2021-09-02'
 image_alt: 'White, black, and red shoe sole'
 seo:
