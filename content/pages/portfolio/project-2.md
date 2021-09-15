@@ -31,6 +31,6 @@ seo:
       relativeUrl: true
 layout: project
 subtitle: >-
-  Use the API from data. to build a site where users can select various schools
-  in their area.
+  Use the API from data.gov to build a site where users can select various
+  schools in their area.
 ---
