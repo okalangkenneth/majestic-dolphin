@@ -30,7 +30,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: Creating and accessing JSON data using JavaScript.(AJAX)
+subtitle: Creating and accessing JSON data using JavaScript and API.
 ---
 In this project, I will be building a page where data is loaded using AJAX and a weather application where the current and forecast weather conditions are displayed for any ZIP Code.
 
