@@ -30,4 +30,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
+subtitle: >-
+  Use this API to build a site where users can select various schools in their
+  area.
 ---
