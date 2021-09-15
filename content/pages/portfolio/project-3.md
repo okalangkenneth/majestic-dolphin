@@ -32,6 +32,5 @@ seo:
 layout: project
 subtitle: Accessing JSON data through an API.
 ---
-In this project, I  built a weather application where the current and forecast weather conditions are displayed for any ZIP Code.   I  get JSON data from the Weather Underground site API. I then parsed and used the weather information to populate my website. When one provides a zip code, the JSON data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
+In this project, I  built a weather application where the current and forecast weather conditions .  I  got JSON data by using the Weather Underground API. I then parsed and used the information to populate my website. When one provides a zip code, the data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
 
-I created JSON files within a JavaScript file and then I loaded the files from my localhost using XML HTTP request and finally loaded data from an API at the
