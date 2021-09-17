@@ -44,7 +44,7 @@ Blazor , ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019
 #### **Project Purpose and Goal.**
 
 Coop Marketing is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
-departments which give all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
+departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
 
