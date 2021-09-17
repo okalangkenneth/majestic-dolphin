@@ -51,8 +51,8 @@ Blazor
 
 #### **Project Purpose and Goal.**
 
-Coop Marketing is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in where by the application will authenticate to perform API calls. In the menu there is the Inspections, departments and the Invoices menu.  In the inspections page there are all the scheduled inspections. An inspection can be added, edited and its details seen. One can also export the inspections to an excel file for further analysis. From the menu one can browse to the
-departments which gives all the departments with their scheduled inspections. Past inspections can also be included. Then the staff can see all the invoices for a particular period.
+Coop Marketing is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
+departments which give all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
 
