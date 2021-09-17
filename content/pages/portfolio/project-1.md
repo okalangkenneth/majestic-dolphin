@@ -37,9 +37,9 @@ The application is built using an API , Blazor for the front end. In the system,
 
 ##### **STACK**
 
-Blazor                                    ASP.NET.CORE
+Blazor                                                                                                               ASP.NET.CORE
 
- API                                         EF Core
+ API                                                                                                                    EF Core
 
  Database                             .NET 5 SDK
 
