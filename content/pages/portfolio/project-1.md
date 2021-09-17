@@ -31,7 +31,7 @@ seo:
 layout: project
 subtitle: A project to assist the marketing efforts of a Cooperative Union in Uganda
 ---
- The application, in the end, is built using an API and the front end using Blazor and  ASP.NET Core architecture. The  tutorial is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+The application, is built using an API ,Blazor for the front end. The  tutorial is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
@@ -51,9 +51,7 @@ Blazor
 
 Coop Marketing is a backend application built for the staff of a cooperative society in Uganda.  In the system, they can create new agricultural produce , get an overview of the produce sales for the different produce types.
 
-
-
-****
+***
 
 #### **WebStack and Explanation.**
 
