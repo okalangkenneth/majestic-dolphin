@@ -33,7 +33,7 @@ subtitle: >-
   Applying statistics records to assist the marketing efforts of an inspection
   company in Uganda
 ---
-The application is built using an API, and Blazor for the front end. In the system, one can create a record for an inspection, get an overview of the inspection invoices for the different departments. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+In this projectThe application is built using an API, and Blazor for the front end. In the system, one can create a record for an inspection, get an overview of the inspection invoices for the different departments. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
@@ -48,8 +48,9 @@ departments page which displays all the departments with their scheduled inspect
 
 #### **WebStack and Explanation.**
 
-***
+ASP.NET Core made the most sense of the application because it required creating an API combined with Blazor and exposing the API using Swagger and consumed from a client-side application.
 
 #### **Problems and Thought Process.**
 
 #### **Lessons Learnt.**
+
