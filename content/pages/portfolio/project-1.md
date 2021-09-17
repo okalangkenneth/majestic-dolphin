@@ -29,7 +29,9 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
-subtitle: A project to assist the marketing efforts of a Cooperative Union in Uganda
+subtitle: >-
+  Applying statistics records to assist the marketing efforts of an Inspection
+  company in Uganda
 ---
 The application, is built using an API ,Blazor for the front end. In the system, they can create new agricultural produce , get an overview of the produce sales for the different produce types. the  tutorial is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
