@@ -37,15 +37,7 @@ The application is built using an API , Blazor for the front end. In the system,
 
 ##### **STACK**
 
-Blazor                                                                                                               ASP.NET.CORE
-
- API                                                                                                                    EF Core
-
- Database                             .NET 5 SDK
-
- Visual Studio 2019            Swagger
-
- SQL Server
+Blazor , ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
 
 [**LIVE**](https://www.example.com)
 
