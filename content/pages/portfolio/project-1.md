@@ -33,7 +33,7 @@ subtitle: >-
   Applying statistics records to assist the marketing efforts of an inspection
   company in Uganda
 ---
-The application, is built using an API ,Blazor for the front end. In the system, they can create new agricultural produce , get an overview of the produce sales for the different produce types. the  tutorial is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+The application is built using an API , Blazor for the front end. In the system, they can create new agricultural produce, get an overview of the produce sales for the different produce types. The  project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
@@ -51,14 +51,8 @@ Blazor
 
 #### **Project Purpose and Goal.**
 
-Coop Marketing is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in where by the application will authenticate to perform API
-calls. In the menu there is the Inspections, departments and the Invoices menu.
-In the inspections page there are all the scheduled inspections. An inspection
-can be added, edited and its details seen. One can also export the inspections
-to an excel file for further analysis. From the menu one can browse to the
-departments which gives all the departments with their scheduled inspections.
-Past inspections can also be included. Then the staff can see all the invoices
-for a particular period.
+Coop Marketing is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in where by the application will authenticate to perform API calls. In the menu there is the Inspections, departments and the Invoices menu.  In the inspections page there are all the scheduled inspections. An inspection can be added, edited and its details seen. One can also export the inspections to an excel file for further analysis. From the menu one can browse to the
+departments which gives all the departments with their scheduled inspections. Past inspections can also be included. Then the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
 
