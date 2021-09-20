@@ -39,7 +39,7 @@ Inspection Statistics is a backend application built for the staff of an inspect
 
 ##### **STACK**
 
-Blazor, ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
+Blazor, ASP.NET.Core, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
 
 [**LIVE**](https://www.example.com)
 
