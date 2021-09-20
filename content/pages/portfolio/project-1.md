@@ -35,7 +35,7 @@ subtitle: >-
 ---
 # **Inspection Statistics.**
 
-Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end and its built using an architecture in ASP.NET.Core that enables for testing and maintining the application.. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using architecture in ASP.NET.Core that enables the testing and maintaining of the application. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
