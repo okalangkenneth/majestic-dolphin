@@ -49,7 +49,15 @@ The project is based on this tutorial  [Pluralsight. ](https://app.pluralsight.c
 
 Blazor, ASP.NET.Core, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
 
-[**LIVE**](https://www.example.com)
+
+
+[**VIEW LIVE** **SITE**](https://www.example.com)
+
+
+
+
+
+
 
 #### **Project Purpose and Goal.**
 
