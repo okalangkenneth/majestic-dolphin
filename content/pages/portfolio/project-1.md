@@ -35,7 +35,7 @@ subtitle: >-
 ---
 # **Inspection Statistics.**
 
-Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using clean architecture principles in ASP.NET.Core that enables the testing, maintaining, and scalability of the application.  The following layers are used; The domain entities and interfaces, application, infrastructure, and user interface layers. In this way, the code will be independent of the User Interface or the used frameworks and the database and the attention is focused on writing the business logicThe project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using clean architecture principles in ASP.NET.Core that enables the testing, maintaining, and scalability of the application.  The following layers are used; The domain entities and interfaces, application, infrastructure, and user interface layers. In this way, the code is independent of the user interface, the frameworks, and the database, and thus the attention is focused on writing the business logic. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
