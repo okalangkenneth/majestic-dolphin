@@ -33,18 +33,27 @@ subtitle: >-
   Applying statistics records to assist the marketing efforts of an inspection
   company in Uganda
 ---
-In this projectThe application is built using an API, and Blazor for the front end. In the system, one can create a record for an inspection, get an overview of the inspection invoices for the different departments. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+# **Inspection Statistics.**
+
+Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using clean architecture principles in ASP.NET.Core that enables the testing, maintaining, and scalability of the application.  The following layers are used; The domain entities and interfaces, application, infrastructure, and user interface layers. In this way, the code is independent of the layers and more attention is focused on writing the business logic instead. In the application architecture, I also include the following;
+
+*    How errors are handled in the API and the Core so that the client knows what happens based on the request they have sent in.
+
+*    Logging capabilities.
+
+*    Authenticating users based on the API.
+
+The project is based on this tutorial  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
-Blazor, ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
+Blazor, ASP.NET.Core, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019, Swagger, SQL Server
 
 [**LIVE**](https://www.example.com)
 
 #### **Project Purpose and Goal.**
 
-Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
-departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
+Inspection Statistics is built with the goal of assisting the inspection company in its marketing efforts through statistical records.  The staff can register or log in to the application by authentication to perform API calls. In the main menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
 
@@ -53,4 +62,3 @@ ASP.NET Core made the most sense of the application because it required creating
 #### **Problems and Thought Process.**
 
 #### **Lessons Learnt.**
-
