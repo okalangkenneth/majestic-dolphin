@@ -33,7 +33,9 @@ subtitle: >-
   Applying statistics records to assist the marketing efforts of an inspection
   company in Uganda
 ---
-In this projectThe application is built using an API, and Blazor for the front end. In the system, one can create a record for an inspection, get an overview of the inspection invoices for the different departments. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+# **Inspection Statistics.**
+
+Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end. In the system, one can create a record for an inspection, get an overview of the inspection invoices for the different departments. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
@@ -43,7 +45,7 @@ Blazor, ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019,
 
 #### **Project Purpose and Goal.**
 
-Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application consists of a Blazor application and an API. The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
+Inspection Statistics. The application consists of a Blazor application and an API. The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
 departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
@@ -53,4 +55,3 @@ ASP.NET Core made the most sense of the application because it required creating
 #### **Problems and Thought Process.**
 
 #### **Lessons Learnt.**
-
