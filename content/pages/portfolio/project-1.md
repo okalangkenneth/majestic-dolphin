@@ -35,7 +35,7 @@ subtitle: >-
 ---
 # **Inspection Statistics.**
 
-Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using architecture in ASP.NET.Core that enables the testing and maintaining of the application. The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+Inspection Statistics is a backend application built for the staff of an inspection company I worked for in Uganda. The application is built using an API, and Blazor for the front end, and it is built using clean architecture principles in ASP.NET.Core that enables the testing, maintaining, and scalability of the application.  This based on separation of concerns and loose coupling and will be built using 10 layers or project; The domain entities and interfaces, application, infrastructure The project is based on this tutorial from  [Pluralsight. ](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
 
 ##### **STACK**
 
@@ -45,7 +45,7 @@ Blazor, ASP.NET.Core, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019,
 
 #### **Project Purpose and Goal.**
 
-Inspection Statistics is built with the goal of assisting the inspection company in the marketing efforts through statistical records.  The staff can register or log in to the application by authentication to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
+Inspection Statistics is built with the goal of assisting the inspection company in its marketing efforts through statistical records.  The staff can register or log in to the application by authentication to perform API calls. In the main menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
 
