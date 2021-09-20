@@ -45,7 +45,7 @@ Blazor, ASP.NET.CORE, API, EF Core, Database, .NET 5 SDK, Visual Studio 2019,
 
 #### **Project Purpose and Goal.**
 
-Inspection Statistics is built with a goal of helping in the marketing efforts of the inspection company through records.  The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
+Inspection Statistics is built with a goal of assisting in the marketing efforts of the inspection company  using .  The staff can register or log in whereby the application will authenticate to perform API calls. In the menu, there is the Inspections, departments, and the Invoices menu.  On the inspections page, are all the scheduled inspections. An inspection can be added, edited and its details are seen. One can also export the inspections to an excel file for further analysis. From the menu, one can also browse to the
 departments page which displays all the departments with their scheduled inspections. Past inspections can also be included. Finally, the staff can see all the invoices for a particular period.
 
 #### **WebStack and Explanation.**
