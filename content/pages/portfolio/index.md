@@ -28,5 +28,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: portfolio
-subtitle: Here are some projects that I am building
+subtitle: >-
+  Here are some projects that I am working on. You may also visit my GitHub
+  repository for more projects
 ---
