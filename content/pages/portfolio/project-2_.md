@@ -32,4 +32,4 @@ seo:
 layout: project
 subtitle: A 3 day weather application that sets weather data of a city .
 ---
-In this project, I  built a weather application where the current and forecast weather conditions.  I  got JSON data by using the Weather Underground API. I then parsed and used the information to populate my website. When one provides the city's name and country code, the data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
+In this project, I  built a weather application where the current and forecast weather conditions.  I  got JSON data by using the Weather Underground API. I then parsed and used the information to populate my website. When one sets the city's name in the code,  the data returned will then reveal the location, the current temperature, weather description, and details about the weather forecast.
