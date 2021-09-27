@@ -30,5 +30,5 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: 'Creating a RESTful API using node.js,express and Mongodb'
+subtitle: 'Creating a RESTful API using node.js,express and Mongodb.(MERN)'
 ---
