@@ -55,3 +55,6 @@ The project folder consisted of the index.html, CSS, js, and images files. I ope
 The bump that I ran into was converting the default kelvin units into celsius as it is the commonly used measure in Sweden. I solved this by visiting the StackOverflow website where I found the solution. I changed the units = metric in the GET request code.
 
 #### **Lessons Learnt.**
+
+The bump that I ran into was converting the default kelvin units into celsius as it is the commonly used measure in Sweden. I solved this by visiting the StackOverflow website where I found the solution. I changed the units = metric in the GET request code.
+
