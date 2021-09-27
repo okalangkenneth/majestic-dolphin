@@ -36,7 +36,7 @@ In this project, I  built a hospitality page where data is dynamically loaded us
 
 **STACK**
 
-Javascript, API,HTML,CSS
+Javascript,  API, HTML, CSS, VS Code.
 
 ![](/images/Screenshot%20\(10\).png)
 
@@ -48,7 +48,7 @@ The purpose of the project will be to create an account with the Open Weather Ma
 
 #### **WebStack and Explanation.**
 
-By loading JSON data from the Weather Underground site using an API, and by setting the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
+The project folder consisted of the index.html, CSS, js, and images files. I opened the index file in Chrome and had the inspector open it to watch the console. By far the JSON file had the most code. It contained 2 XML HTTP requests. One for the current and the other for the forecast weather conditions. It also contained the GET methods which contained a value from the Open Weather Map site as well as my API Id. By setting the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
 
 #### **Problems and Thought Process.**
 
