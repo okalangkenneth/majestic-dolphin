@@ -44,7 +44,7 @@ Javascript, API
 
 #### **Project Purpose and Goal.**
 
-The purpose of the project will be to create an account with the Open Weather Map site, obtain the API key and learn about the documentation., with the goal of building a simple application using JSON, AJAX, and data using a 3rd party API.
+The purpose of the project will be to create an account with the Open Weather Map site, obtain the API key and learn about the documentation, and with a goal of building a simple application using JSON, AJAX, and data using a 3rd party API.
 
 #### **WebStack and Explanation.**
 
