@@ -40,9 +40,7 @@ Javascript, API
 
 ![](/images/Screenshot%20\(10\).png)
 
-[**VIEW LIVE** **SITE**](https://www.example.com)
-
-
+[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
 
 #### **Project Purpose and Goal.**
 
