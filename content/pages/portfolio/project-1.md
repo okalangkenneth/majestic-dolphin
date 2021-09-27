@@ -1,5 +1,5 @@
 ---
-title: Inspection Statistics (Under development)
+title: Inspection Statistics.
 date: '2021-09-02'
 image_alt: 'White, black, and red shoe sole'
 seo:
