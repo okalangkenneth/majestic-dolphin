@@ -30,5 +30,5 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: Accessing JSON data through an API.
+subtitle: Creating a backend for an angular application.
 ---
