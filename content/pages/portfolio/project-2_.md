@@ -56,4 +56,4 @@ The bump that I ran into was converting the default kelvin units into celsius as
 
 #### **Lessons Learnt.**
 
-The main lesson learnt involved my understanding of JSON and 3rd party API integration.
+The main lesson learned involved my understanding of JSON and 3rd party API integration. I also learnt that data loaded over HTTP doesn't work over HTTPS web hosts. However removing the HTTP , which is used to load images and for loading JSON data, it will work on both secure and nonsecure web hosting, but breaks when run locally.
