@@ -37,3 +37,5 @@ In this project, I  built a hospitality page where data is dynamically loaded us
 ##### **STACK**
 
 Javascript, API
+
+![](/images/Screenshot%20\(10\).png)
