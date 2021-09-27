@@ -48,8 +48,13 @@ The purpose of the project will be to create an account with the Open Weather Ma
 
 #### **WebStack and Explanation.**
 
-The project folder consisted of the index.html, CSS, js, and images files. I opened the index file in Chrome and had the inspector open to watch the console before displaying the information on the app. By far the JSON file had the most code. It contained 2 XML HTTP requests. One for the current and the other for the forecast weather conditions. It also contained the GET methods which contained a value from the Open Weather Map site as well as my API key Id. The Index file has dynamic values referencing in the js file. By setting the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast. 
+The project folder consisted of the index.html, CSS, js, and images files. I opened the index file in Chrome and had the inspector open to watch the console before displaying the information on the app. By far the JSON file had the most code. It contained 2 XML HTTP requests. One for the current and the other for the forecast weather conditions. It also contained the GET methods which contained a value from the Open Weather Map site as well as my API key Id. The Index file has dynamic values referencing in the js file. By setting the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
 
 #### **Problems and Thought Process.**
 
+The bump that I ran into was converting the default kelvin units into celsius as it is the commonly used measure in Sweden. I solved this by visiting the StackOverflow website where I found the solution. I changed the units = metric in the GET request code.
+
 #### **Lessons Learnt.**
+
+The bump that I ran into was converting the default kelvin units into celsius as it is the commonly used measure in Sweden. I solved this by visiting the StackOverflow website where I found the solution. I changed the units = metric in the GET request code.
+
