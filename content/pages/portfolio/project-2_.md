@@ -32,9 +32,9 @@ seo:
 layout: project
 subtitle: A 3 day weather application that sets weather data of a city .
 ---
-In this project, I  built a hospitality page where data is dynamically loaded using AJAX and a weather application where the current and forecast weather conditions for a city. by loading JSON data from the Weather Underground site using an API.  The  and when one sets the city's name in the code,  the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
+In this project, I  built a hospitality page where data is dynamically loaded using AJAX and a weather application with the current and forecast weather conditions for a city.
 
-##### **STACK**
+**STACK**
 
 Javascript, API
 
@@ -44,7 +44,11 @@ Javascript, API
 
 #### **Project Purpose and Goal.**
 
+The purpose of the project will be to create an account with the Open Weather Map site, obtain the API key and learn about the documentation., with the goal of building a simple application using JSON, AJAX, and data using a 3rd party API.
+
 #### **WebStack and Explanation.**
+
+By loading JSON data from the Weather Underground site using an API, one sets the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
 
 #### **Problems and Thought Process.**
 
