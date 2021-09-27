@@ -48,7 +48,7 @@ The purpose of the project will be to create an account with the Open Weather Ma
 
 #### **WebStack and Explanation.**
 
-By loading JSON data from the Weather Underground site using an API, one sets the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
+By loading JSON data from the Weather Underground site using an API, and by setting the city's name in the code, the data returned reveals the location, the current temperature, weather description, and a 3-day weather forecast.
 
 #### **Problems and Thought Process.**
 
