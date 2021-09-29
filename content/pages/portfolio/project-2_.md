@@ -32,9 +32,9 @@ seo:
 layout: project
 subtitle: A 3 day weather application that sets weather data of a city .
 ---
-In this project, I  built a hospitality page where data is dynamically loaded using AJAX . The weather application displays the current and forecast weather conditions for a city.
+In this project, I  built a hospitality page where data is dynamically loaded using AJAX. The weather application displays the current and forecast weather conditions for a city.
 
-**STACK**
+#### **STACK**
 
 Javascript,  API, HTML, CSS, VS Code.
 
