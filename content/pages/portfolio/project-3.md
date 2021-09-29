@@ -42,27 +42,18 @@ In this application, I focused on the futures that require the interaction betwe
 
 #### **Stack.**
 
-****
+Angular, ASP.NET.Core
 
-****[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
+***
 
-
+\*\*\*\*[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
 
 #### **Project Purpose and Goal.**
-
-
 
 #### **WebStack and Explanation.**
 
 The application will also allow the user to update and create new information which will be saved to the database on the backend server
 
-
-
 #### **Problems and Thought Process.**
 
-
-
 #### **Lessons Learnt.**
-
-
-
