@@ -1,5 +1,5 @@
 ---
-title: Amucos Inventory Management.
+title: Application Security.
 date: '2019-04-30'
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
@@ -30,30 +30,6 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: Creating a backend for an angular application.
+subtitle: Upgrading the security of an ASP.NET.Core application through validation.
 ---
-In this application, I focused on the futures that require the interaction between a frontend application and a backend service built with ASP.NET Web API. The angular application reaches out to the server with a request, and the backend server returns the response with data from the database. The futures include;
-
-*   Retrieving, filtering, shaping, querying, and saving data.
-
-*   Error handling.
-
-*   User Authentication and Authorization
-
-#### **Stack.**
-
-Angular, ASP.NET.Web.API,
-
-***
-
-\*\*\*\*[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
-
-#### **Project Purpose and Goal.**
-
-#### **WebStack and Explanation.**
-
-The application will also allow the user to update and create new information which will be saved to the database on the backend server
-
-#### **Problems and Thought Process.**
-
-#### **Lessons Learnt.**
+####
