@@ -30,6 +30,6 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-subtitle: Validation as Upgrading the security of an ASP.NET.Core application
+subtitle: 'Validation: Upgrading the security of an ASP.NET.Core application.'
 ---
 ####
