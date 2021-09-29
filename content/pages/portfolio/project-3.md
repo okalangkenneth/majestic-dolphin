@@ -32,6 +32,4 @@ seo:
 layout: project
 subtitle: Creating a backend for an angular application.
 ---
-#### ****
-
-#### ****
+####
