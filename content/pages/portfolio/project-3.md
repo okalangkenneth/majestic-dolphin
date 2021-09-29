@@ -42,7 +42,7 @@ In this application, I focused on the futures that require the interaction betwe
 
 #### **Stack.**
 
-Angular, ASP.NET.Core,HTML,CSS
+Angular, ASP.NET.Web.API,HTML,CSS
 
 ***
 
