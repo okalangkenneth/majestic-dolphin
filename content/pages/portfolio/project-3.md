@@ -1,5 +1,5 @@
 ---
-title: Amucos Inventory Management.
+title: Application Security.
 date: '2019-04-30'
 thumb_image_alt: An orange on a blue background
 image_alt: An orange on a blue background
