@@ -32,3 +32,37 @@ seo:
 layout: project
 subtitle: Creating a backend for an angular application.
 ---
+In this application, I focused on the futures that require the interaction between a frontend application and a backend service built with ASP.NET Web API. The angular application reaches out to the server with a request, and the backend server returns the response with data from the database. The futures include;
+
+*   Retrieving, filtering, shaping, querying, and saving data.
+
+*   Error handling.
+
+*   User Authentication and Authorization
+
+#### **Stack.**
+
+****
+
+****[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
+
+
+
+#### **Project Purpose and Goal.**
+
+
+
+#### **WebStack and Explanation.**
+
+The application will also allow the user to update and create new information which will be saved to the database on the backend server
+
+
+
+#### **Problems and Thought Process.**
+
+
+
+#### **Lessons Learnt.**
+
+
+
