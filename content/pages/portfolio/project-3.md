@@ -32,3 +32,5 @@ seo:
 layout: project
 subtitle: Creating a backend for an angular application.
 ---
+In this application, I focused on the futures that require the interaction between a frontend application and a backend service built with ASP.NET Web API. The angular application reaches out to the server with a request, and the server returns the response. The futures include;
+
