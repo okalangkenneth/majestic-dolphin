@@ -38,9 +38,9 @@ REST API  application where the user will interact with the backend by making or
 
 #### **STACK**
 
-MongoDB, Javascript, API, HTML, CSS, VS Code, Node.js, postman
+MongoDB, Javascript, API, HTML, CSS, VS Code, Node.js, Postman.
 
-[**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
+**VIEW LIVE** **SITE**
 
 #### **Project Purpose and Goal.**
 
@@ -58,7 +58,4 @@ I preferred using VS Code because of its easy-to-use interface and syntax highli
 
 #### **Problems and Thought Process.**
 
-
-
 #### **Lessons Learnt.**
-
