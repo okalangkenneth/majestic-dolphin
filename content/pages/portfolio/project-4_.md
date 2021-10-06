@@ -38,7 +38,7 @@ REST API  application where the user will interact with the backend by making or
 
 #### **STACK**
 
-MongoDB, Javascript, API, HTML, CSS, VS Code, Node.js, Postman.
+MongoDB, Javascript, API, VS Code, Node.js, Postman.
 
 **VIEW LIVE** **SITE**
 
