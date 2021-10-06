@@ -44,7 +44,13 @@ MongoDB, Javascript, API, HTML, CSS, VS Code.
 
 #### **Project Purpose and Goal.**
 
-The purpose of the project will be to create a REST API using MongoDB, Express, and Node
+The purpose of the project will be to;
+
+*   Create REST API using MongoDB, Express, and Node
+
+*   Create CRUD operations to interact with the backend database
+
+*   Create Authentication for the user.
 
 #### **WebStack and Explanation.**
 
