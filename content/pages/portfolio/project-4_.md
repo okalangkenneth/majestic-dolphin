@@ -38,7 +38,7 @@ REST API  application where the user will interact with the backend by making or
 
 #### **STACK**
 
-MongoDB, Javascript, API, HTML, CSS, VS Code, Node.js.
+MongoDB, Javascript, API, HTML, CSS, VS Code, Node.js, postman
 
 [**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
 
@@ -54,7 +54,7 @@ The purpose of the project will be to;
 
 #### **WebStack and Explanation.**
 
-I preferred using VS Code because of its easy-to-use interface and syntax highlighting. Node did most of the heavy lifting as it is used to install all the dependencies for the project. These included express, mongoose,dotnet,bcrypt.js, express-async-handler, jsonwebtocken. Express made it easier to create the server. Nodemon automatically saves all the changes made to our files instead of restarting the server every single time.
+I preferred using VS Code because of its easy-to-use interface and syntax highlighting. Node did most of the heavy lifting as it is used to install all the dependencies for the project. These included express, mongoose,dotnet,bcrypt.js, express-async-handler, jsonwebtocken. Express made it easier to create the server. Nodemon automatically saves all the changes made to our files instead of restarting the server every single time. MangoDB database is connected to server.js.
 
 #### **Problems and Thought Process.**
 
