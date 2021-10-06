@@ -54,7 +54,7 @@ The purpose of the project will be to;
 
 #### **WebStack and Explanation.**
 
-I preferred using VS Code because of its easy-to-use interface and syntax highlighting. Node is used to install all the dependency files for the project.
+I preferred using VS Code because of its easy-to-use interface and syntax highlighting. Node did most of the heavy lifting as it is used to install all the dependencies for the project. These included express, mongoose,dotnet,bcrypt.js, express-async-handler, jsonwebtocken.  Nodemon automatically saves all the changes made to our files instead of restarting the server every single time.
 
 #### **Problems and Thought Process.**
 
