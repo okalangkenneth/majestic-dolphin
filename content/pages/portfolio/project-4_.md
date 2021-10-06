@@ -32,17 +32,13 @@ seo:
 layout: project
 subtitle: 'Creating a RESTful API using node.js,express and Mongodb.(MERN)'
 ---
-A REST API for server and CRUD applications.
-
-
+#### A REST API for server and CRUD applications.
 
 In this project, I built a hospitality page where data is dynamically loaded using AJAX. The weather application displays the current and forecast weather conditions for a city.
 
 #### **STACK**
 
 Javascript, API, HTML, CSS, VS Code.
-
-
 
 [**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
 
