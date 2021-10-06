@@ -58,8 +58,7 @@ I preferred using VS Code because of its easy-to-use interface and syntax highli
 
 #### **Problems and Thought Process.**
 
-The bump that I ran into was converting the default kelvin units into celsius as it is the commonly used measure in Sweden. I solved this by visiting the StackOverflow website where I found the solution. I changed the units = metric in the GET request code.
+
 
 #### **Lessons Learnt.**
 
-The main lesson learned involved my understanding of JSON and 3rd party API integration. I also learned that data loaded over HTTP doesn't work over HTTPS web hosts. However removing the HTTP, which is used to load images and to load JSON data, will work on both secure and nonsecure web hosting, but breaks when run locally.
