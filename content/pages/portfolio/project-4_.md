@@ -34,17 +34,17 @@ subtitle: >-
   Creating a RESTful API using node.js,express and Mongodb.(MERN) for server and
   CRUD application
 ---
-In this project, I built a hospitality page where data is dynamically loaded using AJAX. The weather application displays the current and forecast weather conditions for a city.
+I created a REST API  application where the user will interact with the backend orders database.
 
 #### **STACK**
 
-Javascript, API, HTML, CSS, VS Code.
+MongoDB, Javascript, API, HTML, CSS, VS Code.
 
 [**VIEW LIVE** **SITE**](https://okalangkenneth.github.io/weather_app/)
 
 #### **Project Purpose and Goal.**
 
-The purpose of the project will be to create an account with the Open Weather Map site, obtain the API key and learn about the documentation, and with a goal of building a simple application using JSON, AJAX, and data using a 3rd party API.
+The purpose of the project will be to create a REST API using MongoDB, Express, and Node
 
 #### **WebStack and Explanation.**
 
