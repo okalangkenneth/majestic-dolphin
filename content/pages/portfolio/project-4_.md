@@ -34,7 +34,7 @@ subtitle: >-
   Creating a RESTful API using node.js,express and Mongodb.(MERN) for server and
   CRUD application
 ---
-I created a REST API  application where the user will interact with the backend orders database.
+I created a REST API  application where the user will interact with the backend by making orders from database.
 
 #### **STACK**
 
